@@ -42,8 +42,8 @@
 
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-26 at 11 39 52](https://user-images.githubusercontent.com/45011866/181050223-e9e27456-99df-4b36-9e62-1ae7251ab2d6.png)
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-07-26 at 11 40 00 #2](https://user-images.githubusercontent.com/45011866/181050524-f22e8337-794c-47d0-b1df-f2cd7a2e54e6.png)
-
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-26 at 11 40 00](https://user-images.githubusercontent.com/45011866/181050505-42bbb49f-3249-4e66-9d2b-8900a3599cab.png)
+
+![Simulator Screen Shot - iPhone 13 Pro - 2022-07-26 at 11 40 05](https://user-images.githubusercontent.com/45011866/181050699-8cf6599b-8a78-4d3a-b1c1-49d0526788e1.png)
 
 
